@@ -1,4 +1,4 @@
-// 1. Remove duplicates from an array (one of the most common interview questions!)
+// 1. Remove duplicates from an array
 console.log("1. Remove duplicates from an array");
 
 const dups = [3, 4, 2, 1, 2, 5, 5, 1, 1, 1, 6];
